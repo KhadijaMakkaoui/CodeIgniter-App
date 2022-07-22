@@ -3,7 +3,8 @@
         <title>CodeIgniter App</title>
         <link rel="stylesheet" href="https://bootswatch.com/5/lumen/bootstrap.min.css">
         <link rel="stylesheet" href="<?php echo base_url();?>/assets/css/style.css">
-    </head>
+        <script src="https://cdn.ckeditor.com/ckeditor5/34.2.0/classic/ckeditor.js"></script>
+      </head>
     <body>
     <nav class="navbar navbar-expand navbar-dark bg-primary">
   <div class="container-fluid">

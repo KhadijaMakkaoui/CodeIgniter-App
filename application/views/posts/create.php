@@ -7,9 +7,11 @@
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Body</label>
-    <textarea class="form-control" name="body">
+    <textarea class="form-control" name="body" id="editor">
 
     </textarea></div>
     
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+
+   

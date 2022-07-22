@@ -5,3 +5,5 @@
             <!-- in <strong><?php #echo $post['name']; ?></strong><br> -->
 		<?php #echo word_limiter($post['body'], 60); ?></small>
 </div>
+
+<hr/>

@@ -30,6 +30,11 @@
         </li>
         
       </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">
+          <a href="<?php echo base_url();?>posts/create" class="nav-link">Create Post</a>
+        </li>
+      </ul>
       
     </div>
   </div>

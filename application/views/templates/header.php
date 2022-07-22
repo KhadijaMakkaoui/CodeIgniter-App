@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>CodeIgniter App</title>
-        <link rel="stylesheet" href="https://bootswatch.com/5/morph/bootstrap.min.css">
+        <link rel="stylesheet" href="https://bootswatch.com/5/lumen/bootstrap.min.css">
         <link rel="stylesheet" href="<?php echo base_url();?>/assets/css/style.css">
     </head>
     <body>
